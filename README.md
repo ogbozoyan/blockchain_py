@@ -1,1 +1,1 @@
-# blockchain_py
+# Simple blockchain algorithm based on python
